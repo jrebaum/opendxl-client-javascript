@@ -9,3 +9,4 @@ npm-debug.log
 *.crt
 *.key
 *.pem
+sample/dxlclient.config
